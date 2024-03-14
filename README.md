@@ -12,7 +12,7 @@
   
   -----
 
-![ArantesM GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-![ArantesM GitHub stats](https://github-readme-stats.vercel.app/api?username=allineantunnes&show_icons=true&theme=dark)
+![ArantesM GitHub stats](https://github-readme-stats.vercel.app/api?username=ArantesM&show_icons=true&theme=dark)
+![ArantesM GitHub stats](https://github-readme-stats.vercel.app/api?username=ArantesM&show_icons=true&theme=dark)
 
 
